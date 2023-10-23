@@ -17,4 +17,5 @@ cout<‹"You have entered wrong input"«<endl;
 };
 cout «"The total sum of" «k«" integers is:" « sum_k;
 return 0;
+
 }
